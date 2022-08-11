@@ -1,5 +1,4 @@
-<img src="img/HEADER_IMAGE.png" width="5000">
-<h1> Hiiii !!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70"></h1>
+<h1> Hiiii !! <img src="https://media.giphy.com/media/MGk7atGEkgm71ZAkTv/giphy.gif" width="70"> Tinaye Tsinakwadi here</h1>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack Web Dev ready for duty</em></p>
 
