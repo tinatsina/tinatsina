@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @tinatsina
-- 👀 I’m interested in C/C++, JAVA and x86 ASSEMBLY
-- 🌱 I’m currently learning RFID technology
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me @tinatsina
+<img src="img/HEADER_IMAGE.png" width="5000">
+<h1> Hiiii !!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="70"></h1>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<p><em>Remote Full-stack Web Dev ready for duty</em></p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tinaye%20Tsinakwadi-red?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/tinayetsina/)](https://www.linkedin.com/in/tinayetsina/)
+[![Twitter Badge](https://img.shields.io/badge/-@TinayeT-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TinayeT)](https://twitter.com/TinayeT)
+
+[![Tinayes GitHub stats](https://github-readme-stats.vercel.app/api?username=tinatsina)](https://github.com/anuraghazra/github-readme-stats)
+
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const tinayeTsina = {
+  lookingFor: "Back-End Developer" || "Full-stack web developer",
+  pronouns: ["he", "him"],
+  code: [JavaScript, Java, Python, HTML/CSS],
+  askMeAbout: [Gaming, Sports, Food Recipes, Chill Lofi Music],
+  challenge: "Honing my JS skills and mastering React",
+  funFacts: ['I have more than 1 year work experience in Embedded Systems and PCB design' && 'Masters in Comp Science']
+}
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinatsina)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tinatsina/tinatsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
