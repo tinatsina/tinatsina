@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tinaye%20Tsinakwadi-red?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/tinayetsina/)](https://www.linkedin.com/in/tinayetsina/)
 [![Twitter Badge](https://img.shields.io/badge/-@TinayeT-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TinayeT)](https://twitter.com/TinayeT)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 [![Tinayes GitHub stats](https://github-readme-stats.vercel.app/api?username=tinatsina)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
@@ -21,6 +23,8 @@ const tinayeTsina = {
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinatsina)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align='right' width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=tinatsina">
 
 <!---
 tinatsina/tinatsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
