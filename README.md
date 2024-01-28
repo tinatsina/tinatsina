@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://www.codewars.com/users/tinayetsina/badges/large" width="500">
+<img src="https://www.codewars.com/users/tinayetsina/badges/large" width="900">
 
 ```javascript
 const tinayeTsina = {
